@@ -4,3 +4,5 @@ python:alpine3.19
 xhofe/alist
 xiaoyaliu/alist
 rustdesk/rustdesk-server
+linuxserver/rustdesk
+rustdesk/rustdesk-server-s6
