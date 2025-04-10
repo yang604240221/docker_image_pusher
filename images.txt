@@ -6,3 +6,4 @@ xiaoyaliu/alist
 rustdesk/rustdesk-server
 linuxserver/rustdesk
 rustdesk/rustdesk-server-s6
+fooololo/aipan-netdisk-search
