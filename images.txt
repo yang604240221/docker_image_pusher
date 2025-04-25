@@ -8,4 +8,4 @@ linuxserver/rustdesk
 rustdesk/rustdesk-server-s6
 fooololo/aipan-netdisk-search
 unilei/aipan-netdisk-search
-bestzwei/libretv
+bestzwei/libretv:latest
